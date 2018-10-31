@@ -160,6 +160,11 @@ echo '-------------'
 brew install mysql@5.7
 brew services start mysql@5.7
 
+echo 'Install postgresql'
+echo '-------------'
+brew install postgresql
+brew services start postgresql
+
 echo 'Install yarn'
 echo '------------'
 brew install yarn

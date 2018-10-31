@@ -116,9 +116,9 @@ echo 'Install PhpStorm, Sequel Pro & TablePlus'
 echo '-----------------------------------'
 brew cask install phpstorm sequel-pro tableplus
 
-echo 'Install Kindle, Spotify, Discord, Skype & Steam'
+echo 'Install Kindle, Spotify, Discord, Skype, Rambox & Steam'
 echo '-----------------------------------'
-brew cask install kindle spotify discord skype steam
+brew cask install kindle spotify discord skype rambox steam
 
 echo 'Install php'
 echo '-----------'

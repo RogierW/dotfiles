@@ -104,9 +104,9 @@ echo 'Install some nice quicklook plugins'
 echo '-----------------------------------'
 brew cask install --force qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql webp-quicklook suspicious-package
 
-echo 'Install Alfred & Iterm2'
+echo 'Install Alfred, Iterm2 & Tunnelblick'
 echo '-----------------------------------'
-brew cask install alfred iterm2
+brew cask install alfred iterm2 tunnelblick
 
 echo 'Install Firefox, Thunderbird & Google Chrome'
 echo '-----------------------------------'

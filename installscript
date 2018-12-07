@@ -95,6 +95,10 @@ echo 'Install doctl'
 echo '-------------'
 brew install doctl
 
+echo 'Install redis'
+echo '-------------'
+brew install redis
+
 echo 'Install brew-cask'
 echo '-----------------'
 brew tap caskroom/cask

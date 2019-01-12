@@ -99,6 +99,10 @@ echo 'Install redis'
 echo '-------------'
 brew install redis
 
+echo 'Install pgcli'
+echo '-------------'
+brew install pgcli
+
 echo 'Install brew-cask'
 echo '-----------------'
 brew tap caskroom/cask

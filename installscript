@@ -130,9 +130,9 @@ brew cask install kindle spotify discord skype rambox steam
 
 echo 'Install php'
 echo '-----------'
-brew install php@7.1
 brew install php@7.2
 brew install php@7.3
+brew install php@7.4
 
 echo 'Install imagemagick'
 echo '-------------------'

@@ -15,7 +15,6 @@ alias sshconfig="vi ~/.ssh/config"
 alias copykey='command cat ~/.ssh/id_rsa.public | pbcopy'
 
 # Tool replacements
-alias cat=bat
 alias ping='prettyping --nolegend'
 alias man=tldr
 

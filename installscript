@@ -71,6 +71,10 @@ echo 'Install wget'
 echo '------------'
 brew install wget --overwrite
 
+echo 'Install Nmap'
+echo '------------'
+brew install nmap
+
 echo 'Install ncdu'
 echo '------------'
 brew install ncdu
